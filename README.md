@@ -42,7 +42,7 @@ The purpose is to **analyze business performance**, identify top customers, and 
 ## 🔹 Screenshots / Demos  
 Dashboard Preview:  
 
-![Sales Dashboard Screenshot](SalesProjectSS.png)  
+[![Sales Dashboard Screenshot](SalesProjectSS.png)  ](https://github.com/Saumya2804/Power-Bi-Project---sales/blob/main/dashboard-sales.jpg)
 
 ---
 
