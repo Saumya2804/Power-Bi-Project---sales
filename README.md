@@ -40,9 +40,7 @@ The purpose is to **analyze business performance**, identify top customers, and 
 📌 Certain regions (e.g., Galicia, Emilia-Romagna, England) consistently outperform others.  
 
 ## 🔹 Screenshots / Demos  
-Dashboard Preview:  
-
-[![Sales Dashboard Screenshot](SalesProjectSS.png)  ](https://github.com/Saumya2804/Power-Bi-Project---sales/blob/main/dashboard-sales.jpg)
+Dashboard Preview:  [Sales_Dashboard](https://github.com/Saumya2804/Power-Bi-Project---sales/blob/main/dashboard-sales.jpg)
 
 ---
 
