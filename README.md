@@ -26,6 +26,24 @@ The purpose is to **analyze business performance**, identify top customers, and 
 ✔️ **Shipping Mode Insights** – Pie chart showing order distribution by Economy, Priority, and Immediate shipping modes  
 ✔️ **Interactive Filters** – Region, Country, State, Ship Mode, and Year filters for drill-down analysis  
 
+## 🔹 Business Impact  
+- Enabled stakeholders to quickly identify **profitable customer segments and top-performing regions**.  
+- Helped optimize **shipping mode decisions**, reducing costs by focusing on high-usage modes.  
+- Provided actionable insights to align **sales strategy with target achievements**.  
+- Improved decision-making speed by offering a **single source of truth** for sales and performance metrics.  
+
+## 🔹 Insights  
+📌 **Consumer Segment** drives the highest sales and profit compared to Corporate and Home Office.  
+📌 **Economy shipping mode** dominates with over 60% of total orders.  
+📌 Sales show **monthly fluctuations**, peaking in August and September.  
+📌 Top 10 customers contribute significantly to overall revenue, highlighting key accounts for retention strategies.  
+📌 Certain regions (e.g., Galicia, Emilia-Romagna, England) consistently outperform others.  
+
+## 🔹 Screenshots / Demos  
+Dashboard Preview:  
+
+![Sales Dashboard Screenshot](SalesProjectSS.png)  
+
 ---
 
 👉 This project showcases how Power BI can turn raw sales data into **meaningful insights** for strategic business decisions.  
